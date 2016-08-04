@@ -1,0 +1,30 @@
+_repo: North-of-Boston_3026
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Frost, Robert
+    alias: Frost, Robert Lee
+    birthdate: 1874
+    deathdate: 1963
+    gutenberg_agent_id: '1091'
+    url: http://www.gutenberg.org/2009/agents/1091
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Frost
+description: ''
+gutenberg_issued: '2002-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3026'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry -- 20th century'
+- GITenberg
+tableOfContents: The pasture -- Mending wall -- The death of the hired man -- The
+  mountain -- A hundred collars -- Home burial -- The black cottage -- Blueberries
+  -- A servant to servants -- After apple-picking -- The code -- The generations of
+  men -- The housekeeper -- The fear -- The self-seeker -- The wood-pile -- Good hours.
+title: North of Boston
+url: http://www.gutenberg.org/ebooks/3026
